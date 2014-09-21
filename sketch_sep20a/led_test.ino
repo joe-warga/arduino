@@ -1,5 +1,4 @@
 
-// function: chirp the freq of a 50% duty cycle led flash low to high freq
 // test flashing an LED
 
 #define led 13 // #define constant_name value // sets a constant that is compiled to the value later
